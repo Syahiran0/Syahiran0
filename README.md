@@ -14,6 +14,11 @@ I am a 2-nd year Information Systems Engineering student specialized in the **Bi
 - 💬 **Let's Talk!** I'm a big believer in communication. Whether it's brainstorming a new architecture or discussing the future of AI, I'm always up for a conversation.
 ---
 
+## 🐍 My Contribution Snake
+![Snake Animation](https://github.com/Syahiran0/Syahiran0/blob/output/github-snake.svg)
+
+---
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
